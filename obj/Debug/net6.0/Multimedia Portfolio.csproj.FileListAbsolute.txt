@@ -1,0 +1,30 @@
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.staticwebassets.runtime.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.exe
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.deps.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.runtimeconfig.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.dll
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\bin\Debug\net6.0\Multimedia Portfolio.pdb
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.AssemblyInfoInputs.cache
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.AssemblyInfo.cs
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.RazorAssemblyInfo.cache
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.RazorAssemblyInfo.cs
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.Multimedia Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Multimedia Portfolio.props
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Multimedia Portfolio.props
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Multimedia Portfolio.props
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\scopedcss\bundle\Multimedia Portfolio.styles.css
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\scopedcss\projectbundle\Multimedia Portfolio.bundle.scp.css
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.dll
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\refint\Multimedia Portfolio.dll
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.pdb
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\Multimedia Portfolio.genruntimeconfig.cache
+C:\Users\Chase\Desktop\Workspace\School\Neumont Classes\Year2\Persuasive Writting\Multimedia Portfolio\obj\Debug\net6.0\ref\Multimedia Portfolio.dll
